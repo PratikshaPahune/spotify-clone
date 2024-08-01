@@ -7,7 +7,7 @@ export default function Movies() {
 
   return (
     <>
-    
+    i am inside movie 
     </>
     )
 }
